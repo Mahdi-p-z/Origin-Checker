@@ -1,0 +1,18 @@
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\bin\Debug\Origin Checker.exe.config
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\bin\Debug\Origin Checker.exe
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\bin\Debug\Origin Checker.pdb
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\MainWindow.g.cs
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\App.g.cs
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker_MarkupCompile.cache
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker_MarkupCompile.lref
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\MainWindow.baml
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker.g.resources
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin_Checker.Properties.Resources.resources
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker.csproj.GenerateResource.cache
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker.exe
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker.pdb
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\bin\Debug\Leaf.xNet.dll
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\bin\Debug\ThreadGun.dll
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker.csproj.CopyComplete
+C:\Users\mahdi\source\repos\Origin Checker\Origin Checker\obj\Debug\Origin Checker.csproj.AssemblyReference.cache
